@@ -1,12 +1,12 @@
 // Variables
 @import 'base/variables';
-@import 'base/newvariables';
+//@import 'base/newvariables';
 
 // External
 @import 'external/reset';
 //@import 'external/syntax';
 //@import 'external/rouge-github';
-@import 'external/_highlighting';
+@import 'external/highlighting';
 
 // Base
 @import 'base/global';
