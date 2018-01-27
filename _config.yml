@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address:gforcex@163.com # Full email address, e.g. "sam@example.com"
+  email_address: gforcex@163.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
