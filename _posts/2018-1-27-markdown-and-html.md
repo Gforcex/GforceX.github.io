@@ -9,7 +9,7 @@ tags: [Test, Markdown]
 ## Hello World! 
 
 *this is demo, modify [Type-on-Strap](https://github.com/Sylhare/Type-on-Strap)*
-[TCO]
+[TOC]
 
 **Jekyll** supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
@@ -48,7 +48,7 @@ $$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
 
 One Level Title
 ===
-Two Level Title
+Two Level Title  
 ---
 
 > Markup- Syntax Highlighting
