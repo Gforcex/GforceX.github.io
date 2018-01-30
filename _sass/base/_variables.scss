@@ -43,20 +43,20 @@ $sm-break: 450px;
 /*  Syntax highlighting  */
 // Syntax typography
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-$font-size-code: 0.70em !default; // ~12px
+$font-size-code: 0.75em !default; // ~12px
 $border-radius: 4px !default;
 
 
-
+/*
 // base16 Material Theme
-$base00: #F0F0F0 !default;  // Default Background   #263238
+$base00: #263238 !default;  // Default Background
 $base01: #2E3C43 !default;  // Lighter Background (Used for status bars)
 $base02: #314549 !default;  // Selection Background
 $base03: #546E7A !default;  // Comments, Invisibles, Line Highlighting
 $base04: #B2CCD6 !default;  // Dark Foreground (Used for status bars)
-$base05: #303030 !default;  // Default Foreground, Caret, Delimiters, Operators  #EEFFFF
-$base06: #000000 !default;  // Light Foreground (Not often used)     #EEFFFF
-$base07: #202020 !default;  // Light Background (Not often used)     #FFFFFF
+$base05: #EEFFFF !default;  // Default Foreground, Caret, Delimiters, Operators
+$base06: #EEFFFF !default;  // Light Foreground (Not often used)
+$base07: #FFFFFF !default;  // Light Background (Not often used)
 $base08: #F07178 !default;  // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 $base09: #F78C6C !default;  // Integers, Boolean, Constants, XML Attributes, Markup Link Url
 $base0a: #FFCB6B !default;  // Classes, Markup Bold, Search Text Background
@@ -65,8 +65,25 @@ $base0c: #89DDFF !default;  // Support, Regular Expressions, Escape Characters, 
 $base0d: #82AAFF !default;  // Functions, Methods, Attribute IDs, Headings
 $base0e: #C792EA !default;  // Keywords, Storage, Selector, Markup Italic, Diff Changed
 $base0f: #FF5370 !default;  // Deprecated, Opening/Closing Embedded Language Tags e.g.
+//*/
 
-
+// Solarized Light by Ethan Schoonover (http://ethanschoonover.com/solarized)
+$base00: #fdf6e3
+$base01: #eee8d5
+$base02: #93a1a1
+$base03: #839496
+$base04: #657b83
+$base05: #586e75
+$base06: #073642
+$base07: #002b36
+$base08: #dc322f
+$base09: #cb4b16
+$base0a: #b58900
+$base0b: #859900
+$base0c: #2aa198
+$base0d: #268bd2
+$base0e: #6c71c4
+$base0f: #d33682
 
 
 
