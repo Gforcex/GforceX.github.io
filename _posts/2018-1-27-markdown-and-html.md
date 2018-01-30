@@ -8,9 +8,10 @@ tags: [Test, Markdown]
 
 ## Hello World! 
 
-this is demo, modify [Type-on-Strap](https://github.com/Sylhare/Type-on-Strap)
+*this is demo, modify [Type-on-Strap](https://github.com/Sylhare/Type-on-Strap)*
+[TCO]
 
-Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+**Jekyll** supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
 Tables have also been extended from Markdown:
 
@@ -45,11 +46,15 @@ Alternatively, they can be shown on a new line:
 
 $$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
 
+One Level Title
+===
+Two Level Title
+---
+
 > Markup- Syntax Highlighting
 
-Updated upstream  
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1] From Michael's Rose Minimal Mistakes. [^2]  
-==
+
 >>>> Stashed changes
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
