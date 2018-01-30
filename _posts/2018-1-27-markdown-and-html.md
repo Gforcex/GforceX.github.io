@@ -47,12 +47,10 @@ $$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
 
 > Markup- Syntax Highlighting
 
-<<<<<<< Updated upstream  
-From Michael's Rose Minimal Mistakes. [^2]  
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]  
-=======
+Updated upstream  
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1] From Michael's Rose Minimal Mistakes. [^2]  
->>>>>>> Stashed changes
+==
+>>>> Stashed changes
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 [^2]: <https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/>
@@ -116,10 +114,8 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 1. Do step 1.
 2. Now do this:
-<<<<<<< Updated upstream
-   
-=======
->>>>>>> Stashed changes
+
+>>>> Stashed changes
    ```ruby
    def print_hi(name)
      puts "Hi, #{name}"
